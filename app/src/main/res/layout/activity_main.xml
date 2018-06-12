@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.businessnews.MainActivity">
+
+    <ListView
+        android:id="@+id/list"
+        style="@style/ListView"
+        android:orientation="vertical" />
+
+    <!-- Empty view is only visible when the list has no items. -->
+    <TextView
+        android:id="@+id/empty_view"
+        style="@style/EmptyView"
+        tools:text="@string/no_news" />
+
+    <!-- Loading indicator is only shown before the first load -->
+    <ProgressBar
+        android:id="@+id/loading_indicator"
+        style="@style/LoadingIndicator" />
+
+</RelativeLayout>

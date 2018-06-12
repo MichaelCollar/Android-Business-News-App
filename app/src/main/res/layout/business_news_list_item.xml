@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layout for a single list item that displays business articles -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/date"
+        style="@style/Date"
+        tools:text="03-08-2018" />
+
+    <TextView
+        android:id="@+id/sectionName"
+        style="@style/Date.SectionName"
+        tools:text="Business" />
+
+    <TextView
+        android:id="@+id/title"
+        style="@style/Title"
+        android:layout_below="@id/date"
+        tools:text="Title of the article" />
+
+    <TextView
+        android:id="@+id/author"
+        style="@style/Author"
+        android:layout_below="@+id/title"
+        tools:text="by Katie Melua" />
+
+    <View style="@style/Divider" />
+
+</RelativeLayout>
