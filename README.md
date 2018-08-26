@@ -4,6 +4,6 @@ Business News App queries the Guardian API to fetch news articles on a topic of 
 
 Features: JSON Parsing, HTTP Networking, threads and parallelism (e.g. LoaderManager class), Preferences (e.g. PreferenceFragment class), ViewHolder pattern, Uri.Builder class, Intents.
 
-<img src="http://cmsweb.pl/wp-content/uploads/2018/06/BusinessNewsApp_print_screen_1.png" width="320">
+<img src="https://whitelistnews.com/wp-content/uploads/2018/08/BusinessNewsApp_print_screen_1.png" width="320">
 
-<img src="http://cmsweb.pl/wp-content/uploads/2018/06/BusinessNewsApp_print_screen_2.png" width="320">
+<img src="https://whitelistnews.com/wp-content/uploads/2018/08/BusinessNewsApp_print_screen_2.png" width="320">
