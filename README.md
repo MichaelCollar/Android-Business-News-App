@@ -1,1 +1,9 @@
 # Android-Business-News-App
+
+Business News App queries the Guardian API to fetch news articles on a topic of your choice. The query is narrowed down by the preferences selected by the user in the Settings.
+
+Features: JSON Parsing, HTTP Networking, threads and parallelism (e.g. LoaderManager class), Preferences (e.g. PreferenceFragment class), ViewHolder pattern, Uri.Builder class, Intents.
+
+<img src="http://schoolstyle.pl/wp-content/uploads/2018/12/BusinessNews1.png" width="320">
+
+<img src="http://schoolstyle.pl/wp-content/uploads/2018/12/BusinessNews2.png" width="320">
