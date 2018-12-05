@@ -7,7 +7,3 @@ Features: JSON Parsing, HTTP Networking, threads and parallelism (e.g. LoaderMan
 <img src="http://schoolstyle.pl/wp-content/uploads/2018/12/BusinessNews1.png" width="320">
 
 <img src="http://schoolstyle.pl/wp-content/uploads/2018/12/BusinessNews2.png" width="320">
-
-<img src="https://whitelistnews.com/wp-content/uploads/2018/08/BusinessNewsApp_print_screen_1.png" width="320">
-
-<img src="https://whitelistnews.com/wp-content/uploads/2018/08/BusinessNewsApp_print_screen_2.png" width="320">
